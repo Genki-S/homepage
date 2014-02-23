@@ -1,0 +1,1 @@
+Portfolio.ApplicationAdapter = DS.FixtureAdapter;
